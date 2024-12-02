@@ -1,0 +1,10 @@
+.weather-card{
+    background-color: #fff;
+    padding: 50px 10px;
+    margin: 0px 10px;
+    font-size: 25px;
+}
+
+.weather-card h5{
+    margin-bottom: 10px;
+}
